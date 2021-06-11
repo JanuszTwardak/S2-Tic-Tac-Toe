@@ -1,2 +1,2 @@
 # S2-Tic-Tac-Toe
-2nd semester, Quantum Engineering
+Programming course during 2nd semester, so code is old. Simple Tic-Tac-Toe game in terminal.
